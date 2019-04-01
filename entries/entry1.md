@@ -7,21 +7,21 @@ Java is a programming language and computing platform developed by James Gosling
 
 <img src="../images/java_program.jpg"/>
 
-*A compiler is a program that translates programming languages, in this case Java, into other programming languages (byte code) that is then executed by the Java Virtual Machine (JVM) on your computer. To learn more about compilers check the compilation section 
+*A compiler is a program that translates programming languages, in this case Java, into other programming languages (byte code) that is then executed by the Java Virtual Machine (JVM) on your computer. To learn more about compilers check the compiler/compilation section. 
 
 ## Java Basics
 - Java files have `.java` extension. That mean when making a java file it has to end with `.java` (For ex. `HelloWorld.java`). Notice that the file name uses camel case. Note that when naming anything in Java always use camel case.
-- `String[] args` is a placeholder (that’s the idea for now more on that later)
+- `String[] args` is a placeholder (that’s the idea for now more on that later).
 - `System.out.println()` is used to print a message to the screen on a new line. Note that to print a string you must use double quotes.
-- To comment a single line code use `//`
+- To comment a single line code use `//`.
 
 <img src="../images/single-line-comment.JPG"/>
 
-- To comment multi-line code use `/*` and `*/` where you begin with `/*` and end with `*/`
+- To comment multi-line code use `/*` and `*/` where you begin with `/*` and end with `*/`.
 
 <img src="../images/multi-line-comment.JPG"/>
 
-- You must end every statement in Java with a semicolon (`;`)
+- You must end every statement in Java with a semicolon (`;`).
 
 ## Compiler/Compilation
 - The compiler is important because it checks for mistakes in your code before it transforms the code and the computer runs the code.
