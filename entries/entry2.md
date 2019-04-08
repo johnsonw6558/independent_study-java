@@ -17,10 +17,10 @@ A `String` is not a primitive data type but like a primitive you declare the var
 *Because strings are objects in Java you capitalize the s. Also notice that you have to use double quotes for the string value.
 
 ## Static Checking
-In Java there is something called static typing which check for errors in the code before compiling the file.
+In Java there is something called static typing which check for errors in the code before compiling a file.
 
 ## Naming Variables
-* When naming variables its best to use names that make sense or easy to understand since it makes your code clear, readable, and maintainable.
+* When naming variables it's best to use names that make sense or easy to understand since it makes your code clear, readable, and maintainable.
 * Also when naming variables in Java you can only begin the name of a variable with a valid letter, or a `$`, or an `_`. 
 * Java variables are case sensitive meaning that you have to use the camelCase method to name variables.
 
