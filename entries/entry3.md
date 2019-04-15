@@ -5,7 +5,7 @@
 
 # Entry 3: Introduction to Classes and Methods
 
-This week I planned on completing the Java courses on Codecademy and I did. From the last three lessons on Codecademy I learned about Java classes, methods, conditionals and control flow. Unfortunately, I have not completed my notes. I completed most of my notes except for notes on Java conditionals and control follow which I will definitely complete by next week.
+This week I planned on completing the Java courses on Codecademy and I did. From the last three lessons on Codecademy I learned about Java classes, methods, conditionals and control flow. Unfortunately, I did not completed my notes. I completed most of my notes except for notes on Java conditionals and control follow which I will definitely complete by next week.
 
 ## Java Classes
 
