@@ -10,13 +10,13 @@ The Boolean operator precedence is the order in which boolean operators are eval
 ## If-Elseif-Else Statements
 The `if`, `if`/`else`, and `if`/`else if`/`else` statements are used to conditionally execute blocks of code. You may just use the `if` statement or the `if`/`else` statement if you have just one or two conditionals. You don’t have to use all three of the `if`/`else if`/`else` statements. Also, you may use as many of the `else if` statements as you need. For example:
 
-```
+```java
 if (true) {
     System.out.println("Access granted.");
 }
 ```
 
-```
+```java
 if (8 <= 7) {
     System.out.println("Try again...");
 } else {
@@ -24,7 +24,7 @@ if (8 <= 7) {
 }
 ```
 
-```
+```java
 int round = 5;
 if (round > 12) {
     System.out.println("The match is over!");
@@ -40,7 +40,7 @@ if (round > 12) {
 ## Ternary Conditional
 Ternary Conditional is a shortcut to write `if`/`else` statements in a single line of code. A ternary conditional has three parts. The first part is the Boolean expression. The second part is a statement that gets executed if the Boolean expression is true. The third part is a statement that executed if the Boolean expression is false. For example:
 
-```
+```java
 int fuelLevel = 3;
 char canDrive = (fuelLevel > 0) ? 'Y' : 'N';
 System.out.println(canDrive);
@@ -51,7 +51,7 @@ In the code above `(fuelLevel > 0)` is the boolean expression. If the expression
 ## Switch Statement
 The switch statement is used to check the equality of a variable or expression with a value that does not need to be a boolean. For example:
 
-```
+```java
 char penaltyKick = 'L';
 switch (penaltyKick) {
     case 'L': 
