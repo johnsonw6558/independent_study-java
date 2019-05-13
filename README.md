@@ -7,4 +7,4 @@
 + [Entry 3: Introduction to Classes and Methods](entries/entry3.md)
 + [Entry 4: Java Conditionals and Control Flow](entries/entry4.md)
 + [Entry 5: Entry 5: OOP - Inheritance, Composition, Encapsulation, Polymorphism](entries/entry5.md)
-+ [Entry 6: TBD](entries/entry6.md)
++ [Entry 6: JavaFX](entries/entry6.md)
