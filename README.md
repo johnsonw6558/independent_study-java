@@ -8,3 +8,4 @@
 + [Entry 4: Java Conditionals and Control Flow](entries/entry4.md)
 + [Entry 5: Entry 5: OOP - Inheritance, Composition, Encapsulation, Polymorphism](entries/entry5.md)
 + [Entry 6: JavaFX](entries/entry6.md)
++ [Entry 7: Planning for the Final Project and Creating a MVP](entries/entry7.md)
