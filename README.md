@@ -9,3 +9,4 @@
 + [Entry 5: Entry 5: OOP - Inheritance, Composition, Encapsulation, Polymorphism](entries/entry5.md)
 + [Entry 6: JavaFX](entries/entry6.md)
 + [Entry 7: Planning for the Final Project and Creating a MVP](entries/entry7.md)
++ [Entry 8: Combining the Project, Exploring libGDX, Fixing Errors](entries/entry8.md)
