@@ -1,10 +1,10 @@
 # Entry 9: Finalizing the Project
 
-During this last week of my independent study, I finally figured out how to create a start scene or a home screen using LibGDX. After creating the home screen I also made the buttons on the home screen function as well as added background music to the home screen and game screen. 
+During this last week of my independent study, I finally figured out how to create a start menu using LibGDX. After creating the start menu I also made the buttons on the start menu function as well as added background music to the start menu and game screen. 
 
-## Creating the Home Screen Using LibGDX
+## Creating the Start Menu Using LibGDX
 
-Last week I spent the entire time trying the figure out how to create a home screen of a game using LibGDX so that I can create a home screen for the game that my partners and I are working on. However, I made no progress. I was constantly facing errors that I don’t understand and had to search on google for help but I found nothing helpful. Luckily this week after many trials and errors I was finally able to create the home screen. Below is the code and demo gif of the home screen that I created with LibGDX.
+Last week I spent the entire time trying the figure out how to create a start menu of a game using LibGDX so that I can create a start menu for the game that my partners and I are working on. However, I made no progress. I was constantly facing errors that I don’t understand and had to search on google for help but I found nothing helpful. Luckily this week after many trials and errors I was finally able to create the start menu. Below is the code and demo gif of the start menu that I created with LibGDX.
 
 <img src="../images/mainmenuscreen.gif"/>
 
@@ -155,9 +155,9 @@ public class HomeScreen implements Screen {
 }
 ```
 
-## Making the Buttons on the Home Screen Function
+## Making the Buttons on the Start Menu Work
 
-After creating the home screen, I tried to make the buttons on the home screen function. For example, when the user clicks the button play they will be brought to the game or if the user clicks the button exit they will exit the game. To create the buttons function I had looked at several tutorials online. Below is the code to how I made the buttons on the home screen functional and a demo gif. 
+After creating the start menu, I tried to make the buttons on the start menu function. For example, when the user clicks the button play they will be brought to the game or if the user clicks the button exit they will exit the game. To create the buttons function I had looked at several tutorials online. Below is the code to how I made the buttons on the start menu functional and a demo gif. 
 
 <img src="../images/playbutton.gif"/>
 
@@ -188,9 +188,9 @@ exitButton.addListener(new ClickListener(){
 });
 ```
 
-## Adding Background Music to the Home Screen and Game Screen
+## Adding Background Music to the Start Menu and Game Screen
 
-After making the buttons on the home screen functional, I worked on adding background music to the home screen and game screen and it wasn’t as difficult as I expected. I just searched on google “how to add background music using libgdx” and I found a github tutorial which taught me how to add sound effects/background music using LibGDX. Below is the code to how I added background music.
+After making the buttons on the start menu functional, I worked on adding background music to the start menu and game screen and it wasn’t as difficult as I expected. I just searched on google “how to add background music using libgdx” and I found a github tutorial which taught me how to add sound effects/background music using LibGDX. Below is the code to how I added background music.
 
 ```java
 sound = Gdx.audio.newSound(Gdx.files.internal("core/assets/opening.mp3")); 
@@ -200,6 +200,7 @@ sound.setLooping(id, true); // makes the music loop
 
 ## Takeaway(s)
 
+A takeaway that I have this week is: keep trying and try things out. The reason I said this is because if it weren’t because I kept trying and test around with things I don’t think I would’ve been able to successfully create the start menu for my game this week. 
 
 ## Resources:
 https://libgdx.info/buttons-scene2d/
